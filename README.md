@@ -2,4 +2,4 @@
 
 Developped by Simon Menard
 
-Pull request are welcome !
+Pull requests are welcome !
