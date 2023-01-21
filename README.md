@@ -1,4 +1,4 @@
-# Mathsslave2
+# Maths Slave
 
 Developped by Simon Menard
 
