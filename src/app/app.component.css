@@ -1,7 +1,12 @@
-#root{
+:root {
+    --white: #FFFFFF;
+    --light-gray: #F2F2F2;
+    --medium-gray: #E5E5E5;
+    --dark-gray: #333333;
+    --black: #000000;
+    --accent: #ffa07a;
     height: 100vh;
     display: grid;
     grid-template-rows: 1fr 20fr;
-    background: linear-gradient(45deg, rgb(0,0,10),rgb(0,0,20),rgb(0,5,25),rgb(0,10,30));
     margin: 0px;
 }
