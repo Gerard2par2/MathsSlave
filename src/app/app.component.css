@@ -1,0 +1,7 @@
+#root{
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 1fr 20fr;
+    background: linear-gradient(45deg, rgb(0,0,10),rgb(0,0,20),rgb(0,5,25),rgb(0,10,30));
+    margin: 0px;
+}

@@ -1,0 +1,21 @@
+#root{
+    display: grid;
+    grid-template-columns: 1fr 30fr 1fr;
+    place-items: center;
+    padding:5px;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+    font-weight: bolder;
+    color:rgba(255,255,255,0.8);
+    background: transparent;
+    backdrop-filter: blur(25px);
+}
+
+#title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 25px;
+}
+
+#menu{
+    cursor: pointer;
+}
